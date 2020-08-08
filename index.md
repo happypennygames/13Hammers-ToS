@@ -1,3 +1,3 @@
 ## Welcome!
 
-[Terms of Service](https://github.com/happypennygames/13Hammers-ToS/blob/gh-pages/index.html) 
+[Terms of Service](https://happypennygames.github.io/13Hammers-ToS/index.html) 
